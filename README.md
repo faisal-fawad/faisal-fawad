@@ -1,6 +1,6 @@
 # Hello, I'm Faisal
 
-<p>Welcome to my page! </br> I'm currently studying Computer Science at the University of Guelph and love exploring diverse technologies.</p>
+<p>Welcome to my page! </br> I'm currently studying Computer Science at the University of Guelph and love exploring diverse technologies. </br> You can learn more about me at https://faisal-fawad.github.io!</p>
 
 ### Things I code with
 <p>
