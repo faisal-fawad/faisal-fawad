@@ -22,5 +22,5 @@ You can learn more about me here: https://faisal-fawad.github.io
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-fawad/faisal-fawad/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal-fawad/faisal-fawad/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faisal-fawad/faisal-fawad/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contributions with Snake animation" src="https://raw.githubusercontent.com/faisal-fawad/faisal-fawad/output/github-contribution-grid-snake.svg">
 </picture>
