@@ -1,6 +1,6 @@
 # Hello, I'm Faisal
 
-I'm an undergraduate CS student from the University of Guelph in Ontario, Canada. 
+I'm an undergraduate CS student from the University of Guelph in Ontario, Canada
 
 You can learn more about me here: https://faisal-fawad.github.io
 
