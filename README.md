@@ -1,12 +1,6 @@
 # Hello, I'm Faisal!
 
-### A bit about me:
-- I'm an undergraduate CS student from the [University of Guelph](https://www.uoguelph.ca/) in Ontario, Canada
-- My previous experience includes:
-  - Software Engineer Intern at [Ericsson](https://www.ericsson.com/) (Sept 2024 - Dec 2024)
-  - Software Developer Intern at [Canada Life](https://www.canadalife.com/) (May 2024 - Aug 2024)
-  - Research Assistant at [Ontario Veterinary College](https://ovc.uoguelph.ca/) (May 2023 - Aug 2023)
-- You can learn more about me here: https://faisal-fawad.github.io
+I'm an undergraduate CS student from the [University of Guelph](https://www.uoguelph.ca/) in Ontario, Canada. I've previously worked at [Ericsson](https://www.ericsson.com/), [Canada Life](https://www.canadalife.com/), and [Ontario Veterinary College](https://ovc.uoguelph.ca/)
 
 ### I primarily code in:
 <p>
