@@ -1,12 +1,12 @@
 # Hello, I'm Faisal!
 
-I'm an undergraduate CS student from the [University of Guelph](https://www.uoguelph.ca/) in Ontario, Canada. I've previously worked at [Tesla](https://www.tesla.com/), [Ericsson](https://www.ericsson.com/), [Canada Life](https://www.canadalife.com/), and [Ontario Veterinary College](https://ovc.uoguelph.ca/)
+I'm an undergraduate CS student from the [University of Guelph](https://www.uoguelph.ca/) in Ontario, Canada. I've previously worked at [NVIDIA](https://www.nvidia.com/), [Tesla](https://www.tesla.com/), [Ericsson](https://www.ericsson.com/), [Canada Life](https://www.canadalife.com/), and [Ontario Veterinary College](https://ovc.uoguelph.ca/)
 
 ### I primarily code in:
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/c%2Fc++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <!--<img alt="C" src="https://img.shields.io/badge/c%2Fc++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>-->
 </p>
 
 ### Connect with me:
